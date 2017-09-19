@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Learn HTML and CSS
+tagline:             Free Course from Codecademy
